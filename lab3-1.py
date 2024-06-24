@@ -4,6 +4,7 @@ while x>0:
     x-=1
 
 print("------------AMONG US------------")
+
 y = 0
 while y<10:
     print(y)

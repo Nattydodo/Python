@@ -5,6 +5,3 @@ while i <20:
 
     if(i == 10):
         break
-        print("Cork")
-    
-    continue
